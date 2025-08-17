@@ -2,7 +2,7 @@
 
 # SpotiFont
 
-Force the Spotify Mix font across the entire Spotify desktop app using Spicetify.
+Force the **Spotify Mix font** across the entire Spotify desktop app using Spicetify.
 
 ![Pi7_Gif](https://github.com/user-attachments/assets/7bf43e85-74a8-465f-8b65-694228769baa)
 </div>
