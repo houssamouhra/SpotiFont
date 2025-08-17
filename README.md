@@ -41,8 +41,8 @@ If you haven’t installed Spicetify yet, follow the [official Spicetify guide](
  - Windows: `C:\Users\<YourUsername>\AppData\Roaming\Spicetify`
  - macOS/Linux: `~/.config/spicetify/`
 
-2. Inside the Spicetify folder, create a new folder called `Assets/Fonts`.
-3. Copy the three `Spotify Mix` font files (`Regular`, `Bold`, `ExtraBold`) into this folder.
+2. Inside the Spicetify folder, either create a new folder named `Assets/Fonts` or copy it from the [SpotiFont v1.0 release](https://github.com/houssamouhra/SpotiFont/releases/tag/v1.0).
+3. Place the three `Spotify Mix` font files (`Regular`, `Bold`, `ExtraBold`) into this folder.
 
 ### 3. Add the Snippet
 
