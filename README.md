@@ -1,10 +1,14 @@
+<div align="center">
+
 # SpotiFont
 
-**Force the Spotify Mix font across the entire Spotify desktop app using Spicetify.**
+Force the **Spotify Mix font** across the entire Spotify desktop app using Spicetify.
+
+![Pi7_Gif](https://github.com/user-attachments/assets/7bf43e85-74a8-465f-8b65-694228769baa)
+</div>
 
 > ⚠️ Works on desktop-only.
 
----
 
 ## Features
 
@@ -13,7 +17,6 @@
 - Easy to use as a Spicetify snippet.  
 
 
----
 
 ## Compatibility
 
@@ -25,7 +28,6 @@
 
 - **Tested platform:** This project works with [Soggfy](https://github.com/Rafiuth/Soggfy), an alternative Spotify launcher.
 
----
 
 ## Installation
 
@@ -100,8 +102,6 @@ spicetify apply
 
 3. Restart Spotify to see the `Spotify Mix font` applied across the app.
 
----
-
 ## Notes
 
 - This snippet works on the desktop version only and does not touch core Spotify files.
@@ -109,8 +109,6 @@ spicetify apply
 - Make sure your font files are properly named and placed in Assets/Fonts.
 
 - This snippet overrides all text styling to Spotify Mix.
-
----
 
 ## License
 
