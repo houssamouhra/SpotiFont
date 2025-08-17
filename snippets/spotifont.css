@@ -1,0 +1,42 @@
+/* =========================
+   Force Spotify Mix font on ALL text
+   ========================= */
+
+/* Album headers & metadata */
+.main-entityHeader-container h1,
+.main-entityHeader-pretitle,
+.main-entityHeader-metaDataText,
+.main-entityHeader-metaDataAuthor {
+  font-family: "Spotify Mix", sans-serif !important;
+  font-weight: inherit !important;
+}
+
+/* Track names, playlist titles, album titles */
+.main-trackList-trackName,
+.main-playlistTitle,
+.main-albumTitle {
+  font-family: "Spotify Mix", sans-serif !important;
+  font-weight: inherit !important;
+}
+
+/* Sidebar, navigation, buttons, labels, context menus */
+.main-rootlist-rootlistItemLink,
+.main-navBar-navBarLink,
+.main-contextMenu-menuItemButton,
+.main-collectionLinkButton-collectionLinkText,
+.queue-queue-title,
+.queue-playHistory-title,
+.connect-device-list a,
+.main-buddyFeed-activityMetadata a,
+.link-subtle,
+input,
+button {
+  font-family: "Spotify Mix", sans-serif !important;
+  font-weight: inherit !important;
+}
+
+/* Any other text in cards, modals, and UI elements */
+.Text__TextElement-sc-if376j-0 {
+  font-family: "Spotify Mix", sans-serif !important;
+  font-weight: inherit !important;
+}
