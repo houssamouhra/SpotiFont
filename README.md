@@ -54,7 +54,7 @@ If you haven’t installed Spicetify yet, follow the [official Spicetify guide](
 .main-entityHeader-pretitle,
 .main-entityHeader-metaDataText,
 .main-entityHeader-metaDataAuthor {
-  font-family: "Spotify Mix", sans-serif !important;
+  font-family: "Spotify Mix Extrabold" !important;
   font-weight: inherit !important;
 }
 

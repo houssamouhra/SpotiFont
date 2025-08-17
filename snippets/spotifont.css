@@ -7,9 +7,11 @@
 .main-entityHeader-pretitle,
 .main-entityHeader-metaDataText,
 .main-entityHeader-metaDataAuthor {
-  font-family: "Spotify Mix", sans-serif !important;
+    font-family: "Spotify Mix Extrabold" !important;
   font-weight: inherit !important;
 }
+
+
 
 /* Track names, playlist titles, album titles */
 .main-trackList-trackName,
