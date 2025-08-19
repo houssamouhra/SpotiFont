@@ -51,45 +51,41 @@ If you haven’t installed Spicetify yet, follow the [official Spicetify guide](
 
 ```css
 
-/* Album headers & metadata */
-.main-entityHeader-container h1,
-.main-entityHeader-pretitle,
-.main-entityHeader-metaDataText,
-.main-entityHeader-metaDataAuthor {
-  font-family: "Spotify Mix Extrabold" !important;
-  font-weight: inherit !important;
+/* Default text */
+body,
+html {
+  font-family: "Spotify Mix", sans-serif !important;
+  font-weight: 400; /* Regular */
 }
 
-/* Track names, playlist titles, album titles */
+/* Titles */
+.main-entityHeader-title,
+.main-entityHeader-titleText {
+  font-family: "Spotify Mix", sans-serif !important;
+  font-weight: 700; /* Bold */
+}
+
+/* Track names */
 .main-trackList-trackName,
-.main-playlistTitle,
-.main-albumTitle {
+.main-trackList-rowTitle {
   font-family: "Spotify Mix", sans-serif !important;
-  font-weight: inherit !important;
+  font-weight: 400; /* Regular */
 }
 
-/* Sidebar, navigation, buttons, labels, context menus */
-.main-rootlist-rootlistItemLink,
-.main-navBar-navBarLink,
-.main-contextMenu-menuItemButton,
-.main-collectionLinkButton-collectionLinkText,
-.queue-queue-title,
-.queue-playHistory-title,
-.connect-device-list a,
-.main-buddyFeed-activityMetadata a,
-.link-subtle,
-input,
-button {
+/* Buttons / Highlights */
+button,
+.main-buttons-button,
+.main-playButton-PlayButton {
   font-family: "Spotify Mix", sans-serif !important;
-  font-weight: inherit !important;
+  font-weight: 800; /* ExtraBold */
 }
 
-/* Any other text in cards, modals, and UI elements */
-.Text__TextElement-sc-if376j-0 {
+/* Really strong UI parts */
+h1, h2, h3,
+.main-shelf-header {
   font-family: "Spotify Mix", sans-serif !important;
-  font-weight: inherit !important;
+  font-weight: 900; /* Ultra */
 }
-
 ```
 
 ### 4. Apply the Snippet
